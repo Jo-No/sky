@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmeList>
+  <programme id="1">
+    <name>Mad Max Fury Road</name> <image>images/Mad_Max.jpeg</image> <mood>Calm</mood>
+  </programme>
+  <programme id="2">
+    <name>The Shining</name> <image>images/The_Shining.jpeg</image> <mood>Fearless</mood>
+  </programme>
+  <programme id="3">
+    <name>Inside Out</name> <image>images/Inside_Out.jpeg</image> <mood>Tired</mood>
+  </programme>
+  <programme id="4">
+    <name>The Lion King</name> <image>images/The_Lion_King.jpeg</image> <mood>Agitated</mood>
+  </programme>
+  <programme id="5">
+    <name>The Notebook</name> <image>images/The_Notebook.jpeg</image> <mood>Happy</mood>
+  </programme>
+  <programme id="6">
+    <name>Alice In Wonderland</name> <image>images/Alice_In_Wonderland.jpeg</image> <mood>Wide Awake</mood>
+  </programme>
+  <programme id="7">
+    <name>Mean Girls</name> <image>images/Mean_Girls.jpeg</image> <mood>Scared</mood>
+  </programme>
+  <programme id="8">
+    <name>The Pursuit of Happyness</name> <image>images/The_Pursuit_of_Happyness.jpg</image> <mood>Sad</mood>
+  </programme>
+</programmeList>
